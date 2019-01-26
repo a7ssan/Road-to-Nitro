@@ -65,11 +65,11 @@ client.on('message', (message) => {
             msg += spam[i];
         }
 
-        client.startTyping(message.channel);
+        message.channel.startTyping()
         for (i = 0; i < (times + 1); i++) {
             message.channel.sendMessage(msg);
         }
-        client.stopTyping(message.channel);
+        message.channel.stopTyping()
     }
 
 
