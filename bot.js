@@ -4,7 +4,7 @@ const commands = ["help", "hello", "joke", "GAMER GOD AWARD", "spam"];
 const client = new discord.Client();
 
 client.on('ready', () => {
-    client.user.setGame('💔❌🔪');
+    client.user.setGame('Hello!');
     client.user.setStatus('online');
     console.log("BOT STARTED!");
 });
@@ -76,4 +76,4 @@ client.on('message', (message) => {
 
 });
 
-client.login(process.env.TOKEN);
+client.login('NTM4NDk1MjUzNjg3MTczMTMx.Dy1WrQ.qvszeqPhoZrG3ICo4WcDssG6hko');
