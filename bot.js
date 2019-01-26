@@ -1,49 +1,79 @@
-const discord = require("discord.js");
-const randomWord = require("random-words")
+const discord = require('discord.js');
+const prefix = '$';
+const commands = ["help", "hello", "joke", "GAMER GOD AWARD", "spam"];
 const client = new discord.Client();
 
-client.login(process.env.TOKEN);
-  
+client.on('ready', () => {
+    client.user.setGame('💔❌🔪');
+    client.user.setStatus('online');
+    console.log("BOT STARTED!");
+});
 
- 
-var spam;
- 
-var phrases = ["thing1","another one","keep adding more","there's no limit"];
- 
-function startspam()
-{
-    console.log("Spam starting!")
-    var server = client.guilds.get("538592060580691968");
-    var chan = new discord.TextChannel(server,{"id":"538592060580691970"});
-    spam = client.setInterval(()=>
-    {
-        chan.send(randomWord()).then(msg=>{ // Sticking with randomwords.
-            console.log(msg.content);
-        });
-  
-    },5000);
+for (i = 0; i < commands.length; i++) {
+    commands[i] = prefix + commands[i];
 }
- 
-function stopspam()
-{
-    client.clearTimeout(spam);
-    console.log("Spam Stopped.")
-}
- 
-client.on("ready",()=>{
-    console.log("Ready!");
-})
- 
-client.on("message",msg=>{
-    if(msg.author.id == "531150470681460746")
-    {
-        if(msg.content.toLowerCase() == "=start")
-        {
-            startspam()
+let gamergodchosen = 0;
+
+client.on('message', (message) => {
+    if (message.author.bot) return;
+
+
+    if (message.content === commands[0]) {
+        let e = "Here is a list of commands: \n";
+        for (i = 0; i < commands.length; i++) {
+            e += (i != (commands.length - 1)) ? commands[i] + "\n" : commands[i];
         }
-        else if(msg.content.toLowerCase() == "=stop")
-        {
-            stopspam()
+        message.reply(e);
+    }
+
+
+    if (message.content === commands[1]) {
+        message.reply('hello! :smile:');
+    }
+
+
+    if (message.content === commands[2]) {
+        let jsonjokes = require('./jokes.json');
+        let rn = Math.floor(Math.random() * jsonjokes.jokes.length);
+        message.reply(jsonjokes.jokes[rn]);
+    }
+
+
+    if (message.content === commands[3]) {
+        //You have been deemed a Gamer God
+        if (gamergodchosen === 0) {
+            message.reply("YOU HAVE BEEN DEEMED *THE GAMER GOD*! **YOU WILL ONLY SEE THIS ONCE!** :trophy:");
+            gamergodchosen = 1;
         }
     }
-})
+
+
+    let spam = message.content.split(' ');
+
+    if (spam[0] === commands[4] && spam[1] && spam[2]) {
+        let times = Number(spam[1]).toFixed(0);
+        if (times > 100) {
+            message.reply('Number is larger than 100.');
+            return;
+        }
+        if (times < 1) {
+            message.reply('Number is less than 1.');
+            return;
+        }
+        let msg = "";
+        for (i = 2; i < spam.length; i++) {
+            msg += spam[i];
+        }
+
+        client.startTyping(message.channel);
+        for (i = 0; i < (times + 1); i++) {
+            message.channel.sendMessage(msg);
+        }
+        client.stopTyping(message.channel);
+    }
+
+
+
+});
+
+client.login(process.env.TOKEN);
