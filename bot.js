@@ -105,306 +105,755 @@ var ChannelID = "538994867787923488";
 var prefix = "$";
 console.log('HassanTM , Code.');
 //////////////////////////////////////////////////////////////////////////////////////////////////
-p1.on('ready', () => {  
-    function timerFunc() {
-        p1.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p2.on('ready', () => {
-    function timerFunc() {
-        p2.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p3.on('ready', () => {
-    function timerFunc() {
-        p3.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p4.on('ready', () => {
-    function timerFunc() {
-        p4.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p5.on('ready', () => {
-    function timerFunc() {
-        p5.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p6.on('ready', () => {
-    function timerFunc() {
-        p6.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p7.on('ready', () => {
-    function timerFunc() {
-        p7.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p8.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p9.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p10.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p11.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p12.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p13.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p14.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p15.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p16.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p17.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p18.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p19.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p20.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p21.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p22.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p23.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p24.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p25.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p26.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p27.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p28.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p29.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p30.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p31.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p32.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p33.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p34.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p35.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p36.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p37.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p38.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p39.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p40.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p41.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p42.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p43.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p44.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p45.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p46.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p47.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p48.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p49.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
-p50.on('ready', () => {
-    function timerFunc() {
-        p8.guilds.get(ServerID).channels.get(ChannelID).send(Math.random().toString(36).substring(7));
-    }
-     setInterval(timerFunc, 1500);
-    });
+p1.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p2.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p3.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p4.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p5.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p6.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p7.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p8.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p9.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p10.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p11.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p12.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p13.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p14.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p15.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p16.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p17.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p18.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p19.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p20.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p21.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p22.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p23.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p24.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p25.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p26.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p27.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p28.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p29.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p30.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p31.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p32.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p33.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p34.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p35.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p36.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p37.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p38.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p39.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p40.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p41.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p42.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p43.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p44.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p45.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p46.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p47.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p48.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p49.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
+
+p50.on('message', message => { // Don't Play with this.
+if (message.author.id !== '533658041921306645') return;
+if (message.content === '!spam') {
+      let count = 0;
+      let ecount = 0;
+      for(let x = 0; x < 90000; x++) {
+        message.channel.send(`[ ${x} ]`)
+          .then(m => {
+            count++;
+          })
+          
+        }
+      }
+});
 //////////////////////////////////////////////////////////////////////////////////////////////////
 p1.on("message", message => {
     if (message.author.bot) return;
@@ -1659,154 +2108,154 @@ s.delete(3000);
 });
 //////////////////////////////////////////////////////////////////////////////////////////////////
 p1.on('ready', () => {
-p1.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p1.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p2.on('ready', () => {
-p2.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p2.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p3.on('ready', () => {
-p3.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p3.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p4.on('ready', () => {
-p4.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p4.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p5.on('ready', () => {
-p5.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p5.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p6.on('ready', () => {
-p6.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p6.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p7.on('ready', () => {
-p7.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p7.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p8.on('ready', () => {
-p8.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p8.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p9.on('ready', () => {
-p9.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p9.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p10.on('ready', () => {
-p10.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p10.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p11.on('ready', () => {
-p11.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p11.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p12.on('ready', () => {
-p12.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p12.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p13.on('ready', () => {
-p13.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p13.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p14.on('ready', () => {
-p14.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p14.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p15.on('ready', () => {
-p15.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p15.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p16.on('ready', () => {
-p16.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p16.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p17.on('ready', () => {
-p17.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p17.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p18.on('ready', () => {
-p18.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p18.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p19.on('ready', () => {
-p19.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p19.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p20.on('ready', () => {
-p20.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p20.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p21.on('ready', () => {
-p21.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p21.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p22.on('ready', () => {
-p22.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p22.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p23.on('ready', () => {
-p23.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p23.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p24.on('ready', () => {
-p24.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p24.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p25.on('ready', () => {
-p25.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p25.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p26.on('ready', () => {
-p26.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p26.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p27.on('ready', () => {
-p27.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p27.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p28.on('ready', () => {
-p28.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p28.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p29.on('ready', () => {
-p29.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p29.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p30.on('ready', () => {
-p30.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p30.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p31.on('ready', () => {
-p31.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p31.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p32.on('ready', () => {
-p32.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p32.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p33.on('ready', () => {
-p33.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p33.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p34.on('ready', () => {
-p34.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p34.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p35.on('ready', () => {
-p35.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p35.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p36.on('ready', () => {
-p36.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p36.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p37.on('ready', () => {
-p37.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p37.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p38.on('ready', () => {
-p38.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p38.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p39.on('ready', () => {
-p39.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p39.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p40.on('ready', () => {
-p40.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p40.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p41.on('ready', () => {
-p41.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p41.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p42.on('ready', () => {
-p42.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p42.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p43.on('ready', () => {
-p43.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p43.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p44.on('ready', () => {
-p44.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p44.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p45.on('ready', () => {
-p45.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p45.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p46.on('ready', () => {
-p46.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p46.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p47.on('ready', () => {
-p47.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p47.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p48.on('ready', () => {
-p48.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p48.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p49.on('ready', () => {
-p49.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p49.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p50.on('ready', () => {
-p50.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/ًں’”â‌Œًں”ھ"});
+p50.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 //////////////////////////////////////////////////////////////////////////////////////////////////
 p1.on("message", message => {
