@@ -857,16 +857,6 @@ if (message.content === '!spam') {
 //////////////////////////////////////////////////////////////////////////////////////////////////
 p1.on('message', message => {
   if (message.author.id !== '533658041921306645') return;
-  if (message.content === '1$d') {
-message.channel.send('#daily')
-  }
-  if (message.author.id !== '533658041921306645') return;
-  if(message.content === '1$c'){
-message.channel.send('#credit')
-  }
-//////////////////////////////////////////////////////////////////////////////////////////////////
-p1.on('message', message => {
-  if (message.author.id !== '533658041921306645') return;
   if (message.content === '$d') {
 message.channel.send('#daily')
   }
