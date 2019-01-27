@@ -2108,154 +2108,154 @@ s.delete(3000);
 });
 //////////////////////////////////////////////////////////////////////////////////////////////////
 p1.on('ready', () => {
-p1.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p1.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p2.on('ready', () => {
-p2.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p2.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p3.on('ready', () => {
-p3.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p3.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p4.on('ready', () => {
-p4.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p4.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p5.on('ready', () => {
-p5.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p5.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p6.on('ready', () => {
-p6.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p6.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p7.on('ready', () => {
-p7.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p7.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p8.on('ready', () => {
-p8.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p8.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p9.on('ready', () => {
-p9.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p9.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p10.on('ready', () => {
-p10.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p10.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p11.on('ready', () => {
-p11.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p11.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p12.on('ready', () => {
-p12.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p12.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p13.on('ready', () => {
-p13.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p13.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p14.on('ready', () => {
-p14.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p14.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p15.on('ready', () => {
-p15.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p15.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p16.on('ready', () => {
-p16.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p16.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p17.on('ready', () => {
-p17.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p17.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p18.on('ready', () => {
-p18.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p18.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p19.on('ready', () => {
-p19.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p19.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p20.on('ready', () => {
-p20.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p20.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p21.on('ready', () => {
-p21.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p21.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p22.on('ready', () => {
-p22.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p22.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p23.on('ready', () => {
-p23.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p23.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p24.on('ready', () => {
-p24.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p24.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p25.on('ready', () => {
-p25.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p25.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p26.on('ready', () => {
-p26.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p26.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p27.on('ready', () => {
-p27.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p27.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p28.on('ready', () => {
-p28.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p28.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p29.on('ready', () => {
-p29.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p29.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p30.on('ready', () => {
-p30.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p30.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p31.on('ready', () => {
-p31.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p31.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p32.on('ready', () => {
-p32.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p32.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p33.on('ready', () => {
-p33.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p33.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p34.on('ready', () => {
-p34.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p34.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p35.on('ready', () => {
-p35.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p35.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p36.on('ready', () => {
-p36.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p36.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p37.on('ready', () => {
-p37.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p37.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p38.on('ready', () => {
-p38.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p38.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p39.on('ready', () => {
-p39.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p39.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p40.on('ready', () => {
-p40.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p40.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p41.on('ready', () => {
-p41.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p41.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p42.on('ready', () => {
-p42.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p42.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p43.on('ready', () => {
-p43.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p43.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p44.on('ready', () => {
-p44.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p44.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p45.on('ready', () => {
-p45.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p45.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p46.on('ready', () => {
-p46.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p46.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p47.on('ready', () => {
-p47.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p47.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p48.on('ready', () => {
-p48.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p48.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p49.on('ready', () => {
-p49.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p49.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 p50.on('ready', () => {
-p50.user.setActivity('Love..', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p50.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
 });
 //////////////////////////////////////////////////////////////////////////////////////////////////
 p1.on("message", message => {
