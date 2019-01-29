@@ -106,7 +106,7 @@ var prefix = "$";
 console.log('HassanTM , Code.');
 //////////////////////////////////////////////////////////////////////////////////////////////////
 p1.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -121,7 +121,7 @@ if (message.content === '!spam') {
 });
 
 p2.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -136,7 +136,7 @@ if (message.content === '!spam') {
 });
 
 p3.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -151,7 +151,7 @@ if (message.content === '!spam') {
 });
 
 p4.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -166,7 +166,7 @@ if (message.content === '!spam') {
 });
 
 p5.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -181,7 +181,7 @@ if (message.content === '!spam') {
 });
 
 p6.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -196,7 +196,7 @@ if (message.content === '!spam') {
 });
 
 p7.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -211,7 +211,7 @@ if (message.content === '!spam') {
 });
 
 p8.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -226,7 +226,7 @@ if (message.content === '!spam') {
 });
 
 p9.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -241,7 +241,7 @@ if (message.content === '!spam') {
 });
 
 p10.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -256,7 +256,7 @@ if (message.content === '!spam') {
 });
 
 p11.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -271,7 +271,7 @@ if (message.content === '!spam') {
 });
 
 p12.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -286,7 +286,7 @@ if (message.content === '!spam') {
 });
 
 p13.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -301,7 +301,7 @@ if (message.content === '!spam') {
 });
 
 p14.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -316,7 +316,7 @@ if (message.content === '!spam') {
 });
 
 p15.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -331,7 +331,7 @@ if (message.content === '!spam') {
 });
 
 p16.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -346,7 +346,7 @@ if (message.content === '!spam') {
 });
 
 p17.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -361,7 +361,7 @@ if (message.content === '!spam') {
 });
 
 p18.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -376,7 +376,7 @@ if (message.content === '!spam') {
 });
 
 p19.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -391,7 +391,7 @@ if (message.content === '!spam') {
 });
 
 p20.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -406,7 +406,7 @@ if (message.content === '!spam') {
 });
 
 p21.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -421,7 +421,7 @@ if (message.content === '!spam') {
 });
 
 p22.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -436,7 +436,7 @@ if (message.content === '!spam') {
 });
 
 p23.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -451,7 +451,7 @@ if (message.content === '!spam') {
 });
 
 p24.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -466,7 +466,7 @@ if (message.content === '!spam') {
 });
 
 p25.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -481,7 +481,7 @@ if (message.content === '!spam') {
 });
 
 p26.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -496,7 +496,7 @@ if (message.content === '!spam') {
 });
 
 p27.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -511,7 +511,7 @@ if (message.content === '!spam') {
 });
 
 p28.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -526,7 +526,7 @@ if (message.content === '!spam') {
 });
 
 p29.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -541,7 +541,7 @@ if (message.content === '!spam') {
 });
 
 p30.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -556,7 +556,7 @@ if (message.content === '!spam') {
 });
 
 p31.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -571,7 +571,7 @@ if (message.content === '!spam') {
 });
 
 p32.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -586,7 +586,7 @@ if (message.content === '!spam') {
 });
 
 p33.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -601,7 +601,7 @@ if (message.content === '!spam') {
 });
 
 p34.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -616,7 +616,7 @@ if (message.content === '!spam') {
 });
 
 p35.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -631,7 +631,7 @@ if (message.content === '!spam') {
 });
 
 p36.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -646,7 +646,7 @@ if (message.content === '!spam') {
 });
 
 p37.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -661,7 +661,7 @@ if (message.content === '!spam') {
 });
 
 p38.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -676,7 +676,7 @@ if (message.content === '!spam') {
 });
 
 p39.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -691,7 +691,7 @@ if (message.content === '!spam') {
 });
 
 p40.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -706,7 +706,7 @@ if (message.content === '!spam') {
 });
 
 p41.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -721,7 +721,7 @@ if (message.content === '!spam') {
 });
 
 p42.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -736,7 +736,7 @@ if (message.content === '!spam') {
 });
 
 p43.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -751,7 +751,7 @@ if (message.content === '!spam') {
 });
 
 p44.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -766,7 +766,7 @@ if (message.content === '!spam') {
 });
 
 p45.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -781,7 +781,7 @@ if (message.content === '!spam') {
 });
 
 p46.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -796,7 +796,7 @@ if (message.content === '!spam') {
 });
 
 p47.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -811,7 +811,7 @@ if (message.content === '!spam') {
 });
 
 p48.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -826,7 +826,7 @@ if (message.content === '!spam') {
 });
 
 p49.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -841,7 +841,7 @@ if (message.content === '!spam') {
 });
 
 p50.on('message', message => { // Don't Play with this.
-if (message.author.id !== '533658041921306645') return;
+if (message.author.id !== '539088871061979143') return;
 if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
@@ -860,7 +860,7 @@ p1.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -871,7 +871,7 @@ p2.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -882,7 +882,7 @@ p3.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -893,7 +893,7 @@ p4.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -904,7 +904,7 @@ p5.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -915,7 +915,7 @@ p6.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -926,7 +926,7 @@ p7.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -937,7 +937,7 @@ p8.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -948,7 +948,7 @@ p9.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -959,7 +959,7 @@ p10.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -970,7 +970,7 @@ p11.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -981,7 +981,7 @@ p12.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -992,7 +992,7 @@ p13.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1003,7 +1003,7 @@ p14.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1014,7 +1014,7 @@ p15.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1025,7 +1025,7 @@ p16.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1036,7 +1036,7 @@ p17.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1047,7 +1047,7 @@ p18.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1058,7 +1058,7 @@ p19.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1069,7 +1069,7 @@ p20.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1080,7 +1080,7 @@ p21.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1091,7 +1091,7 @@ p22.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1102,7 +1102,7 @@ p23.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1113,7 +1113,7 @@ p24.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1124,7 +1124,7 @@ p25.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1135,7 +1135,7 @@ p26.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1146,7 +1146,7 @@ p27.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1157,7 +1157,7 @@ p28.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1168,7 +1168,7 @@ p29.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1179,7 +1179,7 @@ p30.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1190,7 +1190,7 @@ p31.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1201,7 +1201,7 @@ p32.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1212,7 +1212,7 @@ p33.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1223,7 +1223,7 @@ p34.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1234,7 +1234,7 @@ p35.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1245,7 +1245,7 @@ p36.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1256,7 +1256,7 @@ p37.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1267,7 +1267,7 @@ p38.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1278,7 +1278,7 @@ p39.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1289,7 +1289,7 @@ p40.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1300,7 +1300,7 @@ p41.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1311,7 +1311,7 @@ p42.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1322,7 +1322,7 @@ p43.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1333,7 +1333,7 @@ p44.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1344,7 +1344,7 @@ p45.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1355,7 +1355,7 @@ p46.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1367,7 +1367,7 @@ p47.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1378,7 +1378,7 @@ p48.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1390,7 +1390,7 @@ p49.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1401,7 +1401,7 @@ p50.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "d")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#daily').then(s => {
 s.delete(3000);
 });
@@ -1413,7 +1413,7 @@ p1.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1424,7 +1424,7 @@ p2.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1435,7 +1435,7 @@ p3.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1446,7 +1446,7 @@ p4.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1457,7 +1457,7 @@ p5.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1468,7 +1468,7 @@ p6.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1479,7 +1479,7 @@ p7.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1490,7 +1490,7 @@ p8.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1501,7 +1501,7 @@ p9.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1512,7 +1512,7 @@ p10.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1523,7 +1523,7 @@ p11.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1534,7 +1534,7 @@ p12.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1545,7 +1545,7 @@ p13.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1556,7 +1556,7 @@ p14.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1567,7 +1567,7 @@ p15.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1578,7 +1578,7 @@ p16.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1589,7 +1589,7 @@ p17.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1600,7 +1600,7 @@ p18.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1611,7 +1611,7 @@ p19.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1622,7 +1622,7 @@ p20.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1633,7 +1633,7 @@ p21.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1644,7 +1644,7 @@ p22.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1655,7 +1655,7 @@ p23.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1666,7 +1666,7 @@ p24.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1677,7 +1677,7 @@ p25.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1688,7 +1688,7 @@ p26.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1699,7 +1699,7 @@ p27.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1710,7 +1710,7 @@ p28.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1721,7 +1721,7 @@ p29.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1732,7 +1732,7 @@ p30.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1743,7 +1743,7 @@ p31.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1754,7 +1754,7 @@ p32.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1765,7 +1765,7 @@ p33.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1776,7 +1776,7 @@ p34.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1787,7 +1787,7 @@ p35.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1798,7 +1798,7 @@ p36.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1809,7 +1809,7 @@ p37.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1820,7 +1820,7 @@ p38.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1831,7 +1831,7 @@ p39.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1842,7 +1842,7 @@ p40.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1853,7 +1853,7 @@ p41.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1864,7 +1864,7 @@ p42.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1875,7 +1875,7 @@ p43.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1886,7 +1886,7 @@ p44.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1897,7 +1897,7 @@ p45.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1908,7 +1908,7 @@ p46.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1919,7 +1919,7 @@ p47.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1930,7 +1930,7 @@ p48.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1941,7 +1941,7 @@ p49.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -1952,7 +1952,7 @@ p50.on("message", message => {
 if(!message.channel.guild) return;
   if(message.content.startsWith(prefix + "cr")) {
 message.delete(3000);
-if(message.author.id !== "533658041921306645") return message.reply('').then(msg => msg.delete(3000));
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
 s.delete(3000);
 });
@@ -2115,7 +2115,7 @@ p1.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix1 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2125,7 +2125,7 @@ p2.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix2 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2135,7 +2135,7 @@ p3.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix3 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2145,7 +2145,7 @@ p4.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix4 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2155,7 +2155,7 @@ p5.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix5 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2165,7 +2165,7 @@ p6.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix6 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2175,7 +2175,7 @@ p7.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix7 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2185,7 +2185,7 @@ p8.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix8 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2195,7 +2195,7 @@ p9.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix9 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2205,7 +2205,7 @@ p10.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix10 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2215,7 +2215,7 @@ p11.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix11 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2225,7 +2225,7 @@ p12.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix12 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2235,7 +2235,7 @@ p13.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix13 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2245,7 +2245,7 @@ p14.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix14 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2255,7 +2255,7 @@ p15.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix15 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2265,7 +2265,7 @@ p16.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix16 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2275,7 +2275,7 @@ p17.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix17 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2285,7 +2285,7 @@ p18.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix18 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2295,7 +2295,7 @@ p19.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix19 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2305,7 +2305,7 @@ p20.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix20 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2315,7 +2315,7 @@ p21.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix21 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2325,7 +2325,7 @@ p22.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix22 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2335,7 +2335,7 @@ p23.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix23 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2345,7 +2345,7 @@ p24.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix24 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2355,7 +2355,7 @@ p25.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix25 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2365,7 +2365,7 @@ p26.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix26 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2375,7 +2375,7 @@ p27.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix27 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2385,7 +2385,7 @@ p28.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix28 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2395,7 +2395,7 @@ p29.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix29 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2405,7 +2405,7 @@ p30.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix30 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2415,7 +2415,7 @@ p31.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix31 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2425,7 +2425,7 @@ p32.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix32 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2435,7 +2435,7 @@ p33.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix33 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2445,7 +2445,7 @@ p34.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix34 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2455,7 +2455,7 @@ p35.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix35 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2465,7 +2465,7 @@ p36.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix36 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2475,7 +2475,7 @@ p37.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix37 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2485,7 +2485,7 @@ p38.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix38 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2495,7 +2495,7 @@ p39.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix39 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2505,7 +2505,7 @@ p40.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix40 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2515,7 +2515,7 @@ p41.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix41 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2525,7 +2525,7 @@ p42.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix42 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2535,7 +2535,7 @@ p43.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix43 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2545,7 +2545,7 @@ p44.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix44 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2555,7 +2555,7 @@ p45.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix45 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2565,7 +2565,7 @@ p46.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix46 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2575,7 +2575,7 @@ p47.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix47 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2585,7 +2585,7 @@ p48.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix48 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2595,7 +2595,7 @@ p49.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix49 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
@@ -2605,7 +2605,7 @@ p50.on("message", message => {
       if(!message.channel.guild) return;
         if(message.content.startsWith(prefix50 + "say")) {
 message.delete(3000);
-    if(message.author.id !== "533658041921306645") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
+    if(message.author.id !== "539088871061979143") return message.reply('You are not allowed to use this command!').then(msg => msg.delete(3000));
         let args = message.content.split(" ").slice(1).join(" ");
 message.channel.send(args);
 }
