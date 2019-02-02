@@ -1411,7 +1411,7 @@ s.delete(3000);
 p1.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix1 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1422,7 +1422,7 @@ s.delete(3000);
 p2.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix2 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1433,7 +1433,7 @@ s.delete(3000);
 p3.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix3 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1444,7 +1444,7 @@ s.delete(3000);
 p4.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix4 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1455,7 +1455,7 @@ s.delete(3000);
 p5.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix5 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1466,7 +1466,7 @@ s.delete(3000);
 p6.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix6 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1477,7 +1477,7 @@ s.delete(3000);
 p7.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix7 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1488,7 +1488,7 @@ s.delete(3000);
 p8.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix8 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1499,7 +1499,7 @@ s.delete(3000);
 p9.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix9 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1510,7 +1510,7 @@ s.delete(3000);
 p10.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix10 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1521,7 +1521,7 @@ s.delete(3000);
 p11.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix11 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1532,7 +1532,7 @@ s.delete(3000);
 p12.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix12 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1543,7 +1543,7 @@ s.delete(3000);
 p13.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix13 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1554,7 +1554,7 @@ s.delete(3000);
 p14.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix14 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1565,7 +1565,7 @@ s.delete(3000);
 p15.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix15 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1576,7 +1576,7 @@ s.delete(3000);
 p16.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix16 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1587,7 +1587,7 @@ s.delete(3000);
 p17.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix17 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1598,7 +1598,7 @@ s.delete(3000);
 p18.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix18 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1609,7 +1609,7 @@ s.delete(3000);
 p19.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix19 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1620,7 +1620,7 @@ s.delete(3000);
 p20.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix20 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1631,7 +1631,7 @@ s.delete(3000);
 p21.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix21 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1642,7 +1642,7 @@ s.delete(3000);
 p22.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix22 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1653,7 +1653,7 @@ s.delete(3000);
 p23.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix23 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1664,7 +1664,7 @@ s.delete(3000);
 p24.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix24 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1675,7 +1675,7 @@ s.delete(3000);
 p25.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix25 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1686,7 +1686,7 @@ s.delete(3000);
 p26.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix26 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1697,7 +1697,7 @@ s.delete(3000);
 p27.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix27 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1708,7 +1708,7 @@ s.delete(3000);
 p28.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix28 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1719,7 +1719,7 @@ s.delete(3000);
 p29.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix29 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1730,7 +1730,7 @@ s.delete(3000);
 p30.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix30 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1741,7 +1741,7 @@ s.delete(3000);
 p31.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix31 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1752,7 +1752,7 @@ s.delete(3000);
 p32.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix32 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1763,7 +1763,7 @@ s.delete(3000);
 p33.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix33 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1774,7 +1774,7 @@ s.delete(3000);
 p34.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix34 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1785,7 +1785,7 @@ s.delete(3000);
 p35.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix35 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1796,7 +1796,7 @@ s.delete(3000);
 p36.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix36 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1807,7 +1807,7 @@ s.delete(3000);
 p37.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix37 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1818,7 +1818,7 @@ s.delete(3000);
 p38.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix38 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1829,7 +1829,7 @@ s.delete(3000);
 p39.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix39 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1840,7 +1840,7 @@ s.delete(3000);
 p40.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix40 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1851,7 +1851,7 @@ s.delete(3000);
 p41.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix41 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1862,7 +1862,7 @@ s.delete(3000);
 p42.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix42 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1873,7 +1873,7 @@ s.delete(3000);
 p43.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix43 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1884,7 +1884,7 @@ s.delete(3000);
 p44.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix44 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1895,7 +1895,7 @@ s.delete(3000);
 p45.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix45 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1906,7 +1906,7 @@ s.delete(3000);
 p46.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix46 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1917,7 +1917,7 @@ s.delete(3000);
 p47.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix47 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1928,7 +1928,7 @@ s.delete(3000);
 p48.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix48 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1939,7 +1939,7 @@ s.delete(3000);
 p49.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix49 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1950,7 +1950,7 @@ s.delete(3000);
 p50.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
-  if(message.content.startsWith(prefix + "cr")) {
+  if(message.content.startsWith(prefix50 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
 message.channel.send('#credit').then(s => {
@@ -1960,154 +1960,154 @@ s.delete(3000);
 });
 //////////////////////////////////////////////////////////////////////////////////////////////////
 p1.on('ready', () => {
-p1.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p1.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p2.on('ready', () => {
-p2.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p2.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p3.on('ready', () => {
-p3.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p3.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p4.on('ready', () => {
-p4.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p4.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p5.on('ready', () => {
-p5.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p5.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p6.on('ready', () => {
-p6.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p6.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p7.on('ready', () => {
-p7.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p7.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p8.on('ready', () => {
-p8.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p8.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p9.on('ready', () => {
-p9.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p9.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p10.on('ready', () => {
-p10.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p10.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p11.on('ready', () => {
-p11.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p11.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p12.on('ready', () => {
-p12.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p12.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p13.on('ready', () => {
-p13.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p13.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p14.on('ready', () => {
-p14.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p14.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p15.on('ready', () => {
-p15.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p15.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p16.on('ready', () => {
-p16.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p16.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p17.on('ready', () => {
-p17.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p17.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p18.on('ready', () => {
-p18.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p18.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p19.on('ready', () => {
-p19.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p19.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p20.on('ready', () => {
-p20.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p20.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p21.on('ready', () => {
-p21.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p21.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p22.on('ready', () => {
-p22.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p22.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p23.on('ready', () => {
-p23.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p23.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p24.on('ready', () => {
-p24.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p24.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p25.on('ready', () => {
-p25.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p25.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p26.on('ready', () => {
-p26.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p26.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p27.on('ready', () => {
-p27.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p27.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p28.on('ready', () => {
-p28.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p28.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p29.on('ready', () => {
-p29.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p29.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p30.on('ready', () => {
-p30.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p30.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p31.on('ready', () => {
-p31.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p31.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p32.on('ready', () => {
-p32.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p32.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p33.on('ready', () => {
-p33.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p33.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p34.on('ready', () => {
-p34.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p34.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p35.on('ready', () => {
-p35.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p35.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p36.on('ready', () => {
-p36.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p36.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p37.on('ready', () => {
-p37.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p37.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p38.on('ready', () => {
-p38.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p38.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p39.on('ready', () => {
-p39.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p39.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p40.on('ready', () => {
-p40.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p40.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p41.on('ready', () => {
-p41.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p41.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p42.on('ready', () => {
-p42.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p42.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p43.on('ready', () => {
-p43.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p43.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p44.on('ready', () => {
-p44.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p44.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p45.on('ready', () => {
-p45.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p45.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p46.on('ready', () => {
-p46.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p46.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p47.on('ready', () => {
-p47.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p47.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p48.on('ready', () => {
-p48.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p48.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p49.on('ready', () => {
-p49.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p49.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 p50.on('ready', () => {
-p50.user.setActivity('http://www.twitch.tv/OOOOF!', {type: "STREAMING",url: "http://www.twitch.tv/OOOOF!"});
+p50.user.setActivity('OOOF ™ ... !', {type: "STREAMING",url: "OOOF ™ ... !"});
 });
 //////////////////////////////////////////////////////////////////////////////////////////////////
 p1.on("message", message => {
