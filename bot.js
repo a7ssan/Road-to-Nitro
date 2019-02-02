@@ -1411,6 +1411,557 @@ s.delete(3000);
 p1.on("message", message => {
     if (message.author.bot) return;
 if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix1 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p2.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix2 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p3.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix3 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p4.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix4 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p5.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix5 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p6.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix6 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p7.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix7 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p8.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix8 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p9.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix9 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p10.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix10 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p11.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix11 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p12.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix12 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p13.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix13 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p14.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix14 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p15.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix15 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p16.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix16 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p17.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix17 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p18.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix18 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p19.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix19 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p20.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix20 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p21.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix21 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p22.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix22 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p23.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix23 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p24.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix24 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p25.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix25 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p26.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix26 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p27.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix27 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p28.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix28 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p29.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix29 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p30.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix30 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p31.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix31 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p32.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix32 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p33.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix33 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p34.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix34 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p35.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix35 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p36.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix36 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p37.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix37 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p38.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix38 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p39.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix39 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p40.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix40 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p41.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix41 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p42.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix42 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p43.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix43 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p44.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix44 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p45.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix45 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p46.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix46 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p47.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix47 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p48.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix48 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p49.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix49 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+p50.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
+  if(message.content.startsWith(prefix50 + "d")) {
+message.delete(3000);
+if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
+message.channel.send('#daily').then(s => {
+s.delete(3000);
+});
+}
+});
+//////////////////////////////////////////////////////////////////////////////////////////////////
+p1.on("message", message => {
+    if (message.author.bot) return;
+if(!message.channel.guild) return;
   if(message.content.startsWith(prefix1 + "c")) {
 message.delete(3000);
 if(message.author.id !== "539088871061979143") return message.reply('').then(msg => msg.delete(3000));
