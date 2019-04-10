@@ -2,7 +2,7 @@
     "name": "discord-rolereact",
     "version": "1.0.0",
     "description": "A bot that automatically assigns roles based on message reactions.",
-    "main": "helpmepls.js",
+    "main": "roleReact.js",
     "scripts": {
         "start": "node ."
     },
