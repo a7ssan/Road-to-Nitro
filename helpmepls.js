@@ -1,7 +1,7 @@
-const D1 = require('discord.js');
-const p1 = new client.Client();
+const client = require('discord.js');
+const client = new client.Client();
 // Configuration & Settings
-const yourID = "158063324699951104"; //Instructions on how to get this: https://redd.it/40zgse
+const yourID = "539076098374238209"; //Instructions on how to get this: https://redd.it/40zgse
 const setupCMD = "!createrolemessage"
 const initialMessage = `**React to the messages below to receive the associated role. If you would like to remove the role, simply remove your reaction!**`;
 const embedMessage = `
@@ -11,7 +11,7 @@ If you would like to remove the role, simply remove your reaction!
 `;
 const embedFooter = "Role Reactions"; // Must set this if "embed" is set to true
 const roles = ["PUBG", "Fortnite", "RocketLeague"];
-const reactions = ["ð:one:", "ð:two:", "ð:three:"];
+const reactions = [":one:", ":two:", ":three:"];
 const embed = true; // Set to "true" if you want all roles to be in a single embed
 const embedColor = "#dd2423"; // Set the embed color if the "embed" variable is set to true
 /**
