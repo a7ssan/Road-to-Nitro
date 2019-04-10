@@ -12,7 +12,7 @@ const roles = ["PUBG", "RocketLeague", "Fortnite"];
 const reactions = ["💻", "🖌", "😃"];
 const embed = true; // Set to "true" if you want all roles to be in a single embed
 const embedColor = "#dd2423"; // Set the embed color if the "embed" variable is set to true
-const botToken = "";
+const botToken = "NTY1NTM4MDE4MTI4MTY2OTQy.XK4Cgg.dZWJIffmBEL2-Rms3XVBOO-hJFc";
 /**
  * You'll have to set this up yourself! Read more below:
  * 
