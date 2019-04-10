@@ -1,5 +1,5 @@
 // Configuration & Settings
-const yourID = "158063324699951104"; //Instructions on how to get this: https://redd.it/40zgse
+const yourID = "539076098374238209"; //Instructions on how to get this: https://redd.it/40zgse
 const setupCMD = "!createrolemessage"
 const initialMessage = `**React to the messages below to receive the associated role. If you would like to remove the role, simply remove your reaction!**`;
 const embedMessage = `
@@ -8,8 +8,8 @@ React to the emoji that matches the role you wish to receive.
 If you would like to remove the role, simply remove your reaction!
 `;
 const embedFooter = "Role Reactions"; // Must set this if "embed" is set to true
-const roles = ["Hacker", "Artist", "Public Relations", "Intern"];
-const reactions = ["💻", "🖌", "😃", "🆕"];
+const roles = ["PUBG", "RocketLeague", "Fortnite"];
+const reactions = ["💻", "🖌", "😃"];
 const embed = true; // Set to "true" if you want all roles to be in a single embed
 const embedColor = "#dd2423"; // Set the embed color if the "embed" variable is set to true
 const botToken = "";
