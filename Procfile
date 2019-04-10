@@ -1,1 +1,1 @@
-worker: node helpmepls.js
+worker: node roleReact.js
